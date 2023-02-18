@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.heading {
+  text-align: center;
+}
+.btn {
+  padding: 9px;
+  border: 2px solid #282c34;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: large;
+  cursor: pointer;
+}
